@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "obby-gym-simulator-escape",
+    "thumbnail": "https://brainquests.github.io/images/300.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "real-driving-simulator",
+    "thumbnail": "https://brainquests.github.io/images/301.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "moto-attack",
+    "thumbnail": "https://brainquests.github.io/images/302.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "raccoon-retail",
+    "thumbnail": "https://brainquests.github.io/images/303.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-blocks-2048",
+    "thumbnail": "https://brainquests.github.io/images/304.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "build-a-go-kart",
+    "thumbnail": "https://brainquests.github.io/images/305.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "flip-knife",
+    "thumbnail": "https://brainquests.github.io/images/306.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "farm-match-seasons-3",
+    "thumbnail": "https://brainquests.github.io/images/307.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "the-earth-evolution",
+    "thumbnail": "https://brainquests.github.io/images/308.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "kitchen-sorting",
+    "thumbnail": "https://brainquests.github.io/images/309.webp",
+    "genre": "Cooking, Puzzle"
+  },
+  {
+    "id": "trial-xtreme",
+    "thumbnail": "https://brainquests.github.io/images/310.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "the-last-tiger-tank-simulator",
+    "thumbnail": "https://brainquests.github.io/images/311.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "hazel-tangle-rope-3d-sorting-puzzle",
+    "thumbnail": "https://brainquests.github.io/images/312.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "boo-tiful-princess-match",
+    "thumbnail": "https://brainquests.github.io/images/313.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "farm-business-saga",
+    "thumbnail": "https://brainquests.github.io/images/314.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "memory-lane",
+    "thumbnail": "https://brainquests.github.io/images/315.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "merge-fruit",
+    "thumbnail": "https://brainquests.github.io/images/316.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "interstellar",
+    "thumbnail": "https://brainquests.github.io/images/317.webp",
+    "genre": "Unblocked, WebGame, Github.io, Discord, Games"
+  },
+  {
+    "id": "panda-mahjong-classic",
+    "thumbnail": "https://brainquests.github.io/images/318.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "cross-the-road",
+    "thumbnail": "https://brainquests.github.io/images/319.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "sweet-business-of-cats-cakes",
+    "thumbnail": "https://brainquests.github.io/images/320.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "geometrix",
+    "thumbnail": "https://brainquests.github.io/images/321.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "basketball-fever",
+    "thumbnail": "https://brainquests.github.io/images/322.webp",
+    "genre": "Basketball, Casual"
+  },
+  {
+    "id": "treasure-seeker",
+    "thumbnail": "https://brainquests.github.io/images/323.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "boss-market",
+    "thumbnail": "https://brainquests.github.io/images/324.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "ninja-survivor",
+    "thumbnail": "https://brainquests.github.io/images/325.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "treasure-champion-chest-capture",
+    "thumbnail": "https://brainquests.github.io/images/326.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "steal-items-io",
+    "thumbnail": "https://brainquests.github.io/images/327.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "wild-race-master-3d",
+    "thumbnail": "https://brainquests.github.io/images/328.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "solitaire-lamour",
+    "thumbnail": "https://brainquests.github.io/images/329.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "stickman-vs-zombies-worldcraft",
+    "thumbnail": "https://brainquests.github.io/images/330.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "bears-vs-art",
+    "thumbnail": "https://brainquests.github.io/images/331.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "journey-of-escape",
+    "thumbnail": "https://brainquests.github.io/images/332.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "gal-sliding-puzzle",
+    "thumbnail": "https://brainquests.github.io/images/333.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "beam-drive-car-crash-test-simulator",
+    "thumbnail": "https://brainquests.github.io/images/334.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "bricks-breaker",
+    "thumbnail": "https://brainquests.github.io/images/335.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pursuit-rampage",
+    "thumbnail": "https://brainquests.github.io/images/336.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "table-tennis-open",
+    "thumbnail": "https://brainquests.github.io/images/337.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "colorsforms",
+    "thumbnail": "https://brainquests.github.io/images/338.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "rope-sorting",
+    "thumbnail": "https://brainquests.github.io/images/339.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "moto-attack-bike-racing",
+    "thumbnail": "https://brainquests.github.io/images/340.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "poopy-escape-the-prison",
+    "thumbnail": "https://brainquests.github.io/images/341.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "shanghai-chef",
+    "thumbnail": "https://brainquests.github.io/images/342.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "underwater-survival",
+    "thumbnail": "https://brainquests.github.io/images/343.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "hawaii-match-6",
+    "thumbnail": "https://brainquests.github.io/images/344.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "wooden-bolts-and-nuts",
+    "thumbnail": "https://brainquests.github.io/images/345.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "car-factory-for-kids",
+    "thumbnail": "https://brainquests.github.io/images/346.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "office-brawl-room-smash",
+    "thumbnail": "https://brainquests.github.io/images/347.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "cross-connect-word",
+    "thumbnail": "https://brainquests.github.io/images/348.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "grandmas-last-stand",
+    "thumbnail": "https://brainquests.github.io/images/349.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "fashion-stylist-salon-makeover",
+    "thumbnail": "https://brainquests.github.io/images/350.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "superheroes-and-the-wand",
+    "thumbnail": "https://brainquests.github.io/images/351.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "real-impossible-sky-tracks-car-driving",
+    "thumbnail": "https://brainquests.github.io/images/352.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "checkers",
+    "thumbnail": "https://brainquests.github.io/images/353.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "meteoheroes",
+    "thumbnail": "https://brainquests.github.io/images/354.webp",
+    "genre": "Adventure, Educational"
+  },
+  {
+    "id": "office-golf",
+    "thumbnail": "https://brainquests.github.io/images/355.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "twisted-rope",
+    "thumbnail": "https://brainquests.github.io/images/356.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "find-the-sprunki",
+    "thumbnail": "https://brainquests.github.io/images/357.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "blackriver-mystery-hidden-objects",
+    "thumbnail": "https://brainquests.github.io/images/358.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "vampiric-roulette-romance",
+    "thumbnail": "https://brainquests.github.io/images/359.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "harbor-operator",
+    "thumbnail": "https://brainquests.github.io/images/360.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "northern-lights-the-secret-of-the-forest",
+    "thumbnail": "https://brainquests.github.io/images/361.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "knife-madness",
+    "thumbnail": "https://brainquests.github.io/images/362.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "soda-block-jam",
+    "thumbnail": "https://brainquests.github.io/images/363.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cool-orange-ball-bounce-adventure",
+    "thumbnail": "https://brainquests.github.io/images/364.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "sudoblock-daily",
+    "thumbnail": "https://brainquests.github.io/images/365.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "sort-works-nuts-order",
+    "thumbnail": "https://brainquests.github.io/images/366.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "asmr-nail-treatment",
+    "thumbnail": "https://brainquests.github.io/images/367.webp",
+    "genre": "Art, Dress-up"
+  },
+  {
+    "id": "save-the-daddy",
+    "thumbnail": "https://brainquests.github.io/images/368.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "sniper-freeze",
+    "thumbnail": "https://brainquests.github.io/images/369.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "worm-out-brain-teaser-games",
+    "thumbnail": "https://brainquests.github.io/images/370.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "geometry-vibes-monster",
+    "thumbnail": "https://brainquests.github.io/images/371.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "void-orbit",
+    "thumbnail": "https://brainquests.github.io/images/372.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "cooking-empire",
+    "thumbnail": "https://brainquests.github.io/images/373.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "dark-academia-wedding",
+    "thumbnail": "https://brainquests.github.io/images/374.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "water-sort-puzzle-3",
+    "thumbnail": "https://brainquests.github.io/images/375.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "squid-escape-game",
+    "thumbnail": "https://brainquests.github.io/images/376.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "tiles-of-the-unexpected-2",
+    "thumbnail": "https://brainquests.github.io/images/377.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cargo-path-puzzle",
+    "thumbnail": "https://brainquests.github.io/images/378.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "color-ring-sorting-match",
+    "thumbnail": "https://brainquests.github.io/images/379.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "money-ping-pong",
+    "thumbnail": "https://brainquests.github.io/images/380.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "submarine-attack",
+    "thumbnail": "https://brainquests.github.io/images/381.webp",
+    "genre": "Shooter, Strategy"
+  },
+  {
+    "id": "no-pain-no-gain-ragdoll-sandbox",
+    "thumbnail": "https://brainquests.github.io/images/382.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "mini-golf-saga",
+    "thumbnail": "https://brainquests.github.io/images/383.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "blue-mushroom-cat-run",
+    "thumbnail": "https://brainquests.github.io/images/384.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "maldives-hidden-objects",
+    "thumbnail": "https://brainquests.github.io/images/385.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "miracle-mahjong",
+    "thumbnail": "https://brainquests.github.io/images/386.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "puzzles-balls-merge-the-new-year",
+    "thumbnail": "https://brainquests.github.io/images/387.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "drill-quest",
+    "thumbnail": "https://brainquests.github.io/images/388.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "monster-school-challenge",
+    "thumbnail": "https://brainquests.github.io/images/389.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "association-connect-word",
+    "thumbnail": "https://brainquests.github.io/images/390.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "codequest",
+    "thumbnail": "https://brainquests.github.io/images/391.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "parking-fury-3d-beach-city-2",
+    "thumbnail": "https://brainquests.github.io/images/392.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "cat-mini-restaurant",
+    "thumbnail": "https://brainquests.github.io/images/393.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "candy-riddles",
+    "thumbnail": "https://brainquests.github.io/images/394.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hard-puzzle",
+    "thumbnail": "https://brainquests.github.io/images/395.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sprunki-garden",
+    "thumbnail": "https://brainquests.github.io/images/396.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "mind-games-math-crosswords",
+    "thumbnail": "https://brainquests.github.io/images/397.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "sort-parking",
+    "thumbnail": "https://brainquests.github.io/images/398.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "candy-chain-master",
+    "thumbnail": "https://brainquests.github.io/images/399.webp",
+    "genre": "Agility, Match-3"
+  },
+  {
+    "id": "style-icons-2024-rewind-edition",
+    "thumbnail": "https://brainquests.github.io/images/400.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "battle-simulator-sandbox",
+    "thumbnail": "https://brainquests.github.io/images/401.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "backrooms-skibidi-terrors",
+    "thumbnail": "https://brainquests.github.io/images/402.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "draw-to-crush-monster-game",
+    "thumbnail": "https://brainquests.github.io/images/403.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "witchy-and-the-puzzle-adventures",
+    "thumbnail": "https://brainquests.github.io/images/404.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "labubu-doll-mukbang-asmr-unblocked",
+    "thumbnail": "https://brainquests.github.io/images/405.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "word-rush",
+    "thumbnail": "https://brainquests.github.io/images/406.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ellie-and-friends-get-ready-for-first-date",
+    "thumbnail": "https://brainquests.github.io/images/407.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "hidden-objects",
+    "thumbnail": "https://brainquests.github.io/images/408.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "asmr-beauty-homeless",
+    "thumbnail": "https://brainquests.github.io/images/409.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "number-bubble-shooter-wild-west",
+    "thumbnail": "https://brainquests.github.io/images/410.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "cube-stories-escape",
+    "thumbnail": "https://brainquests.github.io/images/411.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sprunki-jigsaw-puzzle",
+    "thumbnail": "https://brainquests.github.io/images/412.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "kiss-o-neck",
+    "thumbnail": "https://brainquests.github.io/images/413.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "obby-draw-to-escape",
+    "thumbnail": "https://brainquests.github.io/images/414.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "obby-football-soccer-3d",
+    "thumbnail": "https://brainquests.github.io/images/415.webp",
+    "genre": "Football, Casual"
+  },
+  {
+    "id": "one-shot-tower-physics-destroyer",
+    "thumbnail": "https://brainquests.github.io/images/416.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "v-and-n-pizza-cooking-game",
+    "thumbnail": "https://brainquests.github.io/images/417.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "sand-loop",
+    "thumbnail": "https://brainquests.github.io/images/418.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "dont-tap",
+    "thumbnail": "https://brainquests.github.io/images/419.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "sudoku-master",
+    "thumbnail": "https://brainquests.github.io/images/420.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "color-sort-impostor-edition",
+    "thumbnail": "https://brainquests.github.io/images/421.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "miners-fury",
+    "thumbnail": "https://brainquests.github.io/images/422.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "delivery-chaos",
+    "thumbnail": "https://brainquests.github.io/images/423.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "hungry-corgi-cute-music-game",
+    "thumbnail": "https://brainquests.github.io/images/424.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stupidity-test",
+    "thumbnail": "https://brainquests.github.io/images/425.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "geometry-rush-4d",
+    "thumbnail": "https://brainquests.github.io/images/426.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hexafill",
+    "thumbnail": "https://brainquests.github.io/images/427.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "eastern-star-vs-city-style-icon",
+    "thumbnail": "https://brainquests.github.io/images/428.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "hamster-combo-idle",
+    "thumbnail": "https://brainquests.github.io/images/429.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "2048-merge-world",
+    "thumbnail": "https://brainquests.github.io/images/430.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "inspector-cat",
+    "thumbnail": "https://brainquests.github.io/images/431.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "asmr-pet-treatment",
+    "thumbnail": "https://brainquests.github.io/images/432.webp",
+    "genre": "Care, Dress-up"
+  },
+  {
+    "id": "hexa-go",
+    "thumbnail": "https://brainquests.github.io/images/433.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "trading-games-playtime",
+    "thumbnail": "https://brainquests.github.io/images/434.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "perfect-match-3d",
+    "thumbnail": "https://brainquests.github.io/images/435.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "phrasle-master",
+    "thumbnail": "https://brainquests.github.io/images/436.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "prinxy-house-of-fashion",
+    "thumbnail": "https://brainquests.github.io/images/437.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "roller-coaster-3d",
+    "thumbnail": "https://brainquests.github.io/images/438.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "easter-glamping-trip",
+    "thumbnail": "https://brainquests.github.io/images/439.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "meow-slide",
+    "thumbnail": "https://brainquests.github.io/images/440.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "only-up-parkour-2",
+    "thumbnail": "https://brainquests.github.io/images/441.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "bubble-blitz-galaxy",
+    "thumbnail": "https://brainquests.github.io/images/442.webp",
+    "genre": "Bubble Shooter, Match-3"
+  },
+  {
+    "id": "twinkle-shooter",
+    "thumbnail": "https://brainquests.github.io/images/443.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "cannons-blast-3d",
+    "thumbnail": "https://brainquests.github.io/images/444.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "animal-swipe",
+    "thumbnail": "https://brainquests.github.io/images/445.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "airport-master-plane-tycoon",
+    "thumbnail": "https://brainquests.github.io/images/446.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "idle-factory-domination",
+    "thumbnail": "https://brainquests.github.io/images/447.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "earwax-clinic",
+    "thumbnail": "https://brainquests.github.io/images/448.webp",
+    "genre": "Care, Simulation"
+  },
+  {
+    "id": "dungeon-master-knight",
+    "thumbnail": "https://brainquests.github.io/images/449.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "tangle-master-3d",
+    "thumbnail": "https://brainquests.github.io/images/450.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "black-pink-christmas-concert",
+    "thumbnail": "https://brainquests.github.io/images/451.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "flower-fairy-adventure-story",
+    "thumbnail": "https://brainquests.github.io/images/452.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "topsy-turvy",
+    "thumbnail": "https://brainquests.github.io/images/453.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bridge-wars",
+    "thumbnail": "https://brainquests.github.io/images/454.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "color-dots-challenge",
+    "thumbnail": "https://brainquests.github.io/images/455.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "k-pop-hunters-valentine-style",
+    "thumbnail": "https://brainquests.github.io/images/456.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "hedgies",
+    "thumbnail": "https://brainquests.github.io/images/457.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "brawl-stars",
+    "thumbnail": "https://brainquests.github.io/images/458.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "missile-launch-master",
+    "thumbnail": "https://brainquests.github.io/images/459.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "stockings-dilemma",
+    "thumbnail": "https://brainquests.github.io/images/460.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bear-vs-humans",
+    "thumbnail": "https://brainquests.github.io/images/461.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "idle-casino-manager-tycoon",
+    "thumbnail": "https://brainquests.github.io/images/462.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "tennis-masters-2026",
+    "thumbnail": "https://brainquests.github.io/images/463.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "untwist-road",
+    "thumbnail": "https://brainquests.github.io/images/464.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "battle-zone-2d",
+    "thumbnail": "https://brainquests.github.io/images/465.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "word-game-2026",
+    "thumbnail": "https://brainquests.github.io/images/466.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "craftmart",
+    "thumbnail": "https://brainquests.github.io/images/467.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "lovie-chics-coachella-festival",
+    "thumbnail": "https://brainquests.github.io/images/468.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "baby-penguin-fishing",
+    "thumbnail": "https://brainquests.github.io/images/469.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "merge-3d-match-3-balloons",
+    "thumbnail": "https://brainquests.github.io/images/470.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hammer-mastercraft-destroy",
+    "thumbnail": "https://brainquests.github.io/images/471.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "battle-racing-stars",
+    "thumbnail": "https://brainquests.github.io/images/472.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "idle-dice-3d-incremental-game",
+    "thumbnail": "https://brainquests.github.io/images/473.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "football-penalty",
+    "thumbnail": "https://brainquests.github.io/images/474.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "crystal-connect",
+    "thumbnail": "https://brainquests.github.io/images/475.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "drift-io",
+    "thumbnail": "https://brainquests.github.io/images/476.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "physics-balls",
+    "thumbnail": "https://brainquests.github.io/images/477.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "quizmania-trivia-game",
+    "thumbnail": "https://brainquests.github.io/images/478.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "eat-donuts",
+    "thumbnail": "https://brainquests.github.io/images/479.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "g-wagon-city-driver",
+    "thumbnail": "https://brainquests.github.io/images/480.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "ludo-star",
+    "thumbnail": "https://brainquests.github.io/images/481.webp",
+    "genre": "Boardgames, Casual"
+  },
+  {
+    "id": "paper-doll-diary-dress-up-diy",
+    "thumbnail": "https://brainquests.github.io/images/482.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "mafia-sniper-crime-shooting",
+    "thumbnail": "https://brainquests.github.io/images/483.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "summer-onet-connect",
+    "thumbnail": "https://brainquests.github.io/images/484.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "griddlers-deluxe",
+    "thumbnail": "https://brainquests.github.io/images/485.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "number-rush",
+    "thumbnail": "https://brainquests.github.io/images/486.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "stickman-dinosaur-arena",
+    "thumbnail": "https://brainquests.github.io/images/487.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cougar-simulator-big-cats",
+    "thumbnail": "https://brainquests.github.io/images/488.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "cut-n-fill",
+    "thumbnail": "https://brainquests.github.io/images/489.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "2248-musical",
+    "thumbnail": "https://brainquests.github.io/images/490.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "stylish-nail-art",
+    "thumbnail": "https://brainquests.github.io/images/491.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "cake-sorting-deluxe",
+    "thumbnail": "https://brainquests.github.io/images/492.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "save-little-red-hood",
+    "thumbnail": "https://brainquests.github.io/images/493.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "meow-market",
+    "thumbnail": "https://brainquests.github.io/images/494.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "driver-master-simulator",
+    "thumbnail": "https://brainquests.github.io/images/495.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "bouncy-barn",
+    "thumbnail": "https://brainquests.github.io/images/496.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "summon-tribe",
+    "thumbnail": "https://brainquests.github.io/images/497.webp",
+    "genre": "Battle, Merge"
+  },
+  {
+    "id": "hill-climb-truck-transform-adventure",
+    "thumbnail": "https://brainquests.github.io/images/498.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "car-jam-escape",
+    "thumbnail": "https://brainquests.github.io/images/499.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "obby-parkour-racing",
+    "thumbnail": "https://brainquests.github.io/images/500.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "football-penalty-2026",
+    "thumbnail": "https://brainquests.github.io/images/501.webp",
+    "genre": "Football, Casual"
+  },
+  {
+    "id": "word-search-universe-easter",
+    "thumbnail": "https://brainquests.github.io/images/502.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "snake-2048",
+    "thumbnail": "https://brainquests.github.io/images/503.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "hidden-objects-bakery",
+    "thumbnail": "https://brainquests.github.io/images/504.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "my-city-hospital",
+    "thumbnail": "https://brainquests.github.io/images/505.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "hill-racing-egg-drop",
+    "thumbnail": "https://brainquests.github.io/images/506.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "snake-hunter",
+    "thumbnail": "https://brainquests.github.io/images/507.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "trolley-fun",
+    "thumbnail": "https://brainquests.github.io/images/508.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "sum-master",
+    "thumbnail": "https://brainquests.github.io/images/509.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "zoo-restaurant",
+    "thumbnail": "https://brainquests.github.io/images/510.webp",
+    "genre": "Cooking, Merge"
+  },
+  {
+    "id": "prismroll-3d",
+    "thumbnail": "https://brainquests.github.io/images/511.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tiktok-braided-hairstyles",
+    "thumbnail": "https://brainquests.github.io/images/512.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-roman-empire-colosseum",
+    "thumbnail": "https://brainquests.github.io/images/513.webp",
+    "genre": "Battle, Simulation"
+  },
+  {
+    "id": "facechart",
+    "thumbnail": "https://brainquests.github.io/images/514.webp",
+    "genre": "Art"
+  },
+  {
+    "id": "nubik-create-your-place",
+    "thumbnail": "https://brainquests.github.io/images/515.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "radiant-rush",
+    "thumbnail": "https://brainquests.github.io/images/516.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "happy-monsters-2",
+    "thumbnail": "https://brainquests.github.io/images/517.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "merge-heroes-titans",
+    "thumbnail": "https://brainquests.github.io/images/518.webp",
+    "genre": "Battle, Merge"
+  },
+  {
+    "id": "riddlemath",
+    "thumbnail": "https://brainquests.github.io/images/519.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "stickman-shooter-bros",
+    "thumbnail": "https://brainquests.github.io/images/520.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "malatang-master-stack-run-3d",
+    "thumbnail": "https://brainquests.github.io/images/521.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "tracesoccer-ubc",
+    "thumbnail": "https://brainquests.github.io/images/522.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "citymix-solitaire",
+    "thumbnail": "https://brainquests.github.io/images/523.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "grow-castle-defence",
+    "thumbnail": "https://brainquests.github.io/images/524.webp",
+    "genre": "Adventure, Strategy"
+  },
+  {
+    "id": "gun-match-screw",
+    "thumbnail": "https://brainquests.github.io/images/525.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mahjong-adventure-world-quest",
+    "thumbnail": "https://brainquests.github.io/images/526.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "mafia-billiard-tricks",
+    "thumbnail": "https://brainquests.github.io/images/527.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-prison-run",
+    "thumbnail": "https://brainquests.github.io/images/528.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "destruction-of-stickman-zombie",
+    "thumbnail": "https://brainquests.github.io/images/529.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "basket-champs",
+    "thumbnail": "https://brainquests.github.io/images/530.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "angry-chibi-run",
+    "thumbnail": "https://brainquests.github.io/images/531.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "collect-em-all",
+    "thumbnail": "https://brainquests.github.io/images/532.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "paint-master",
+    "thumbnail": "https://brainquests.github.io/images/533.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "puzzlejam",
+    "thumbnail": "https://brainquests.github.io/images/534.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "knit-rescue",
+    "thumbnail": "https://brainquests.github.io/images/535.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tiny-fighter-unstoppable-run",
+    "thumbnail": "https://brainquests.github.io/images/536.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "race-it-car-racing",
+    "thumbnail": "https://brainquests.github.io/images/537.webp",
+    "genre": "Racing & Driving, Sports"
+  },
+  {
+    "id": "dino-hunter-king",
+    "thumbnail": "https://brainquests.github.io/images/538.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "triangles",
+    "thumbnail": "https://brainquests.github.io/images/539.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "grenade-simulator",
+    "thumbnail": "https://brainquests.github.io/images/540.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "zip-zap",
+    "thumbnail": "https://brainquests.github.io/images/541.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "paw-clash",
+    "thumbnail": "https://brainquests.github.io/images/542.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "frogio",
+    "thumbnail": "https://brainquests.github.io/images/543.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "bubble-escape",
+    "thumbnail": "https://brainquests.github.io/images/544.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sprunki-character-maker-oc",
+    "thumbnail": "https://brainquests.github.io/images/545.webp",
+    "genre": "Adventure, Art"
+  },
+  {
+    "id": "pizza-maker",
+    "thumbnail": "https://brainquests.github.io/images/546.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "ragdoll-show-throw-break-and-destroy",
+    "thumbnail": "https://brainquests.github.io/images/547.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "head-soccer-arena",
+    "thumbnail": "https://brainquests.github.io/images/548.webp",
+    "genre": "Football, Casual"
+  },
+  {
+    "id": "sandbox-destroy-the-ragdoll",
+    "thumbnail": "https://brainquests.github.io/images/549.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "wave-road-3d",
+    "thumbnail": "https://brainquests.github.io/images/550.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "tailor-stylist-fashion-diary",
+    "thumbnail": "https://brainquests.github.io/images/551.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "blocksss",
+    "thumbnail": "https://brainquests.github.io/images/552.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mob-rush",
+    "thumbnail": "https://brainquests.github.io/images/553.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "idle-airport-ceo",
+    "thumbnail": "https://brainquests.github.io/images/554.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "strykon",
+    "thumbnail": "https://brainquests.github.io/images/555.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "mineblocks-3d-maze",
+    "thumbnail": "https://brainquests.github.io/images/556.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fun-mini-games-for-princess",
+    "thumbnail": "https://brainquests.github.io/images/557.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dig-out-of-prison",
+    "thumbnail": "https://brainquests.github.io/images/558.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "cannon-blast-the-last-stand",
+    "thumbnail": "https://brainquests.github.io/images/559.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "100-doors-challenge",
+    "thumbnail": "https://brainquests.github.io/images/560.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "merge-sesame",
+    "thumbnail": "https://brainquests.github.io/images/561.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "pet-salon",
+    "thumbnail": "https://brainquests.github.io/images/562.webp",
+    "genre": "Care"
+  },
+  {
+    "id": "solitaire-summer-klondike",
+    "thumbnail": "https://brainquests.github.io/images/563.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "battle-for-the-galaxy",
+    "thumbnail": "https://brainquests.github.io/images/564.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "diamond-mosaic",
+    "thumbnail": "https://brainquests.github.io/images/565.webp",
+    "genre": "Art"
+  },
+  {
+    "id": "super-mx-last-season",
+    "thumbnail": "https://brainquests.github.io/images/566.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "4-colors-card-mania",
+    "thumbnail": "https://brainquests.github.io/images/567.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "little-commander-red-vs-blue",
+    "thumbnail": "https://brainquests.github.io/images/568.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "puzzle-blocks",
+    "thumbnail": "https://brainquests.github.io/images/569.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tap-car",
+    "thumbnail": "https://brainquests.github.io/images/570.webp",
+    "genre": "Puzzle, Art"
+  },
+  {
+    "id": "portals",
+    "thumbnail": "https://brainquests.github.io/images/571.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "fruit-jam",
+    "thumbnail": "https://brainquests.github.io/images/572.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "rope-color-sort-3d",
+    "thumbnail": "https://brainquests.github.io/images/573.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sheep-sort-puzzle-sort-color",
+    "thumbnail": "https://brainquests.github.io/images/574.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "noob-jailbreak-2",
+    "thumbnail": "https://brainquests.github.io/images/575.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "super-pop-blast",
+    "thumbnail": "https://brainquests.github.io/images/576.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "match-ten-number-puzzle",
+    "thumbnail": "https://brainquests.github.io/images/577.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fruit-balls-juicy-fusion",
+    "thumbnail": "https://brainquests.github.io/images/578.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "future-war-bot-battle-in-space-3d",
+    "thumbnail": "https://brainquests.github.io/images/579.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "stickman-fight-pro",
+    "thumbnail": "https://brainquests.github.io/images/580.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "annoying-boss-punch-game",
+    "thumbnail": "https://brainquests.github.io/images/581.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "guinea-piggy-matching",
+    "thumbnail": "https://brainquests.github.io/images/582.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "super-football-fever",
+    "thumbnail": "https://brainquests.github.io/images/583.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "tricky-challenges-mini-games",
+    "thumbnail": "https://brainquests.github.io/images/584.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "space-shift",
+    "thumbnail": "https://brainquests.github.io/images/585.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "dream-mania-happy-match",
+    "thumbnail": "https://brainquests.github.io/images/586.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "juicy-match",
+    "thumbnail": "https://brainquests.github.io/images/587.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "chaos-road-combat-car-racing",
+    "thumbnail": "https://brainquests.github.io/images/588.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "italian-animal-alchemy-brainrot",
+    "thumbnail": "https://brainquests.github.io/images/589.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "shape-shift",
+    "thumbnail": "https://brainquests.github.io/images/590.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "belote-3in1",
+    "thumbnail": "https://brainquests.github.io/images/591.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "jungle-solitaire",
+    "thumbnail": "https://brainquests.github.io/images/592.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "rocket-fest",
+    "thumbnail": "https://brainquests.github.io/images/593.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "zoo-shap",
+    "thumbnail": "https://brainquests.github.io/images/594.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "drift-donut",
+    "thumbnail": "https://brainquests.github.io/images/595.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "world-wars-tanks",
+    "thumbnail": "https://brainquests.github.io/images/596.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "kawaii-claw-merge",
+    "thumbnail": "https://brainquests.github.io/images/597.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "pop-puzzle",
+    "thumbnail": "https://brainquests.github.io/images/598.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "smashdoll",
+    "thumbnail": "https://brainquests.github.io/images/599.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bffs-luxury-loungewear",
+    "thumbnail": "https://brainquests.github.io/images/600.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tower-guardian-epic-defense",
+    "thumbnail": "https://brainquests.github.io/images/601.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "farm-block-puzzle",
+    "thumbnail": "https://brainquests.github.io/images/602.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fireside-solitaire",
+    "thumbnail": "https://brainquests.github.io/images/603.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "3d-chess-master",
+    "thumbnail": "https://brainquests.github.io/images/604.webp",
+    "genre": "Boardgames, Strategy"
+  },
+  {
+    "id": "spaceflight-simulator",
+    "thumbnail": "https://brainquests.github.io/images/605.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "lulu-run",
+    "thumbnail": "https://brainquests.github.io/images/606.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "i8-city-driver",
+    "thumbnail": "https://brainquests.github.io/images/607.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "money-chaser-city-parkour-game",
+    "thumbnail": "https://brainquests.github.io/images/608.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pet-runner",
+    "thumbnail": "https://brainquests.github.io/images/609.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "grill-party",
+    "thumbnail": "https://brainquests.github.io/images/610.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pato-vs-cops",
+    "thumbnail": "https://brainquests.github.io/images/611.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "mr-bounce",
+    "thumbnail": "https://brainquests.github.io/images/612.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ride-shooter",
+    "thumbnail": "https://brainquests.github.io/images/613.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "space-cleaner",
+    "thumbnail": "https://brainquests.github.io/images/614.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "police-chase-drifter",
+    "thumbnail": "https://brainquests.github.io/images/615.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "toilet-time",
+    "thumbnail": "https://brainquests.github.io/images/616.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "lamphead",
+    "thumbnail": "https://brainquests.github.io/images/617.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "merge-beasts",
+    "thumbnail": "https://brainquests.github.io/images/618.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "brainrot-memory",
+    "thumbnail": "https://brainquests.github.io/images/619.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "red-light-green-light",
+    "thumbnail": "https://brainquests.github.io/images/620.webp",
+    "genre": "Agility, Simulation"
+  },
+  {
+    "id": "student-and-teacher",
+    "thumbnail": "https://brainquests.github.io/images/621.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "color-water-puzzle",
+    "thumbnail": "https://brainquests.github.io/images/622.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "panda-adventure",
+    "thumbnail": "https://brainquests.github.io/images/623.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "console-idle",
+    "thumbnail": "https://brainquests.github.io/images/624.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "puzzle-lab",
+    "thumbnail": "https://brainquests.github.io/images/625.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "2048-puzzle-connect-the-balls",
+    "thumbnail": "https://brainquests.github.io/images/626.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "paper-doll-diary-chibi-dolls",
+    "thumbnail": "https://brainquests.github.io/images/627.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "carnage-battle-arena",
+    "thumbnail": "https://brainquests.github.io/images/628.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "bffs-k-pop-fangirls",
+    "thumbnail": "https://brainquests.github.io/images/629.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "sort-balls-cones",
+    "thumbnail": "https://brainquests.github.io/images/630.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pictures-riddle",
+    "thumbnail": "https://brainquests.github.io/images/631.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "club-tycoon-idle-clicker",
+    "thumbnail": "https://brainquests.github.io/images/632.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "donnes-spinning-world",
+    "thumbnail": "https://brainquests.github.io/images/633.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "blind-boat-shooting-master",
+    "thumbnail": "https://brainquests.github.io/images/634.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "king-of-crabs",
+    "thumbnail": "https://brainquests.github.io/images/635.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "run-3d",
+    "thumbnail": "https://brainquests.github.io/images/636.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "warlord-fantasy-rpg",
+    "thumbnail": "https://brainquests.github.io/images/637.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "grass-defense",
+    "thumbnail": "https://brainquests.github.io/images/638.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "spaces-solitaire",
+    "thumbnail": "https://brainquests.github.io/images/639.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "bffs-golden-hour",
+    "thumbnail": "https://brainquests.github.io/images/640.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "mk48-io",
+    "thumbnail": "https://brainquests.github.io/images/641.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "grandma-recipe-ramen",
+    "thumbnail": "https://brainquests.github.io/images/642.webp",
+    "genre": "Cooking, Puzzle"
+  },
+  {
+    "id": "idle-drive-merge-upgrade-drive",
+    "thumbnail": "https://brainquests.github.io/images/643.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "wacky-strike",
+    "thumbnail": "https://brainquests.github.io/images/644.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "panda-kitchen-idle-tycoon",
+    "thumbnail": "https://brainquests.github.io/images/645.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dollys-restaurant-organizing",
+    "thumbnail": "https://brainquests.github.io/images/646.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "tap-3d-blocks",
+    "thumbnail": "https://brainquests.github.io/images/647.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "train-master",
+    "thumbnail": "https://brainquests.github.io/images/648.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "domino-solitaire",
+    "thumbnail": "https://brainquests.github.io/images/649.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "love-in-style",
+    "thumbnail": "https://brainquests.github.io/images/650.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "supermarket-cashier-simulator",
+    "thumbnail": "https://brainquests.github.io/images/651.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "tobinin",
+    "thumbnail": "https://brainquests.github.io/images/652.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "click-click-clicker",
+    "thumbnail": "https://brainquests.github.io/images/653.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "paint-sponges-puzzle",
+    "thumbnail": "https://brainquests.github.io/images/654.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "real-freekick-3d",
+    "thumbnail": "https://brainquests.github.io/images/655.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "escape-the-horror-craft",
+    "thumbnail": "https://brainquests.github.io/images/656.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "fat-cat-life",
+    "thumbnail": "https://brainquests.github.io/images/657.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "iconic-halloween-costumes",
+    "thumbnail": "https://brainquests.github.io/images/658.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "face-changes",
+    "thumbnail": "https://brainquests.github.io/images/659.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "chiron-city-driver",
+    "thumbnail": "https://brainquests.github.io/images/660.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "ducklings",
+    "thumbnail": "https://brainquests.github.io/images/661.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gun-rush",
+    "thumbnail": "https://brainquests.github.io/images/662.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bid-wars-1-auction-simulator",
+    "thumbnail": "https://brainquests.github.io/images/663.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "fish-feeding",
+    "thumbnail": "https://brainquests.github.io/images/664.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "archery-ragdoll",
+    "thumbnail": "https://brainquests.github.io/images/665.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "jungle-match-adventures",
+    "thumbnail": "https://brainquests.github.io/images/666.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "mojo-match-3d",
+    "thumbnail": "https://brainquests.github.io/images/667.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "snow-ball-racing-mutliplayer",
+    "thumbnail": "https://brainquests.github.io/images/668.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "bolts-and-nuts-puzzle",
+    "thumbnail": "https://brainquests.github.io/images/669.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "car-fighter",
+    "thumbnail": "https://brainquests.github.io/images/670.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "hole-digger",
+    "thumbnail": "https://brainquests.github.io/images/671.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "idle-factory-empire",
+    "thumbnail": "https://brainquests.github.io/images/672.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pinball-basketball",
+    "thumbnail": "https://brainquests.github.io/images/673.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "block-digger",
+    "thumbnail": "https://brainquests.github.io/images/674.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "2048-number-match",
+    "thumbnail": "https://brainquests.github.io/images/675.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "kung-fu-little-animals",
+    "thumbnail": "https://brainquests.github.io/images/676.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "popcat-clicker",
+    "thumbnail": "https://brainquests.github.io/images/677.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "chicken-blast",
+    "thumbnail": "https://brainquests.github.io/images/678.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "hide-seek-go-and-find",
+    "thumbnail": "https://brainquests.github.io/images/679.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "pew-pew-dose",
+    "thumbnail": "https://brainquests.github.io/images/680.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "word-of-fortune",
+    "thumbnail": "https://brainquests.github.io/images/681.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "racing-game-king-hp",
+    "thumbnail": "https://brainquests.github.io/images/682.webp",
+    "genre": "Racing & Driving, Sports"
+  },
+  {
+    "id": "stickman-punishment",
+    "thumbnail": "https://brainquests.github.io/images/683.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "gold-miner-tower-defense",
+    "thumbnail": "https://brainquests.github.io/images/684.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "hero-match",
+    "thumbnail": "https://brainquests.github.io/images/685.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "wood-screw-puzzle",
+    "thumbnail": "https://brainquests.github.io/images/686.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "wordmeister-hd",
+    "thumbnail": "https://brainquests.github.io/images/687.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "brat-girl-summer",
+    "thumbnail": "https://brainquests.github.io/images/688.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fashion-world-simulator",
+    "thumbnail": "https://brainquests.github.io/images/689.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "stacking-match",
+    "thumbnail": "https://brainquests.github.io/images/690.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "emoji-smasher-smiley-game",
+    "thumbnail": "https://brainquests.github.io/images/691.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "tidy-master-satisfeel-asmr",
+    "thumbnail": "https://brainquests.github.io/images/692.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "the-big-hit-run",
+    "thumbnail": "https://brainquests.github.io/images/693.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "warfare-1942-online-shooter",
+    "thumbnail": "https://brainquests.github.io/images/694.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "find-the-vampire",
+    "thumbnail": "https://brainquests.github.io/images/695.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "chickz-stack",
+    "thumbnail": "https://brainquests.github.io/images/696.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "screw-match",
+    "thumbnail": "https://brainquests.github.io/images/697.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "skating-park",
+    "thumbnail": "https://brainquests.github.io/images/698.webp",
+    "genre": "Racing & Driving, .IO"
+  },
+  {
+    "id": "sea-monsters-mahjong",
+    "thumbnail": "https://brainquests.github.io/images/699.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "survival-master-456-challenge",
+    "thumbnail": "https://brainquests.github.io/images/700.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "doomsday-zombie-td",
+    "thumbnail": "https://brainquests.github.io/images/701.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "kick-the-noobik-3d",
+    "thumbnail": "https://brainquests.github.io/images/702.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "run-n-shoot",
+    "thumbnail": "https://brainquests.github.io/images/703.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "freecell",
+    "thumbnail": "https://brainquests.github.io/images/704.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "light-bulb-puzzle",
+    "thumbnail": "https://brainquests.github.io/images/705.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "eye-art-perfect-makeup-artist",
+    "thumbnail": "https://brainquests.github.io/images/706.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "sniper-shooter-2",
+    "thumbnail": "https://brainquests.github.io/images/707.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "bbq-stack-run",
+    "thumbnail": "https://brainquests.github.io/images/708.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "arrow-out-and-linker",
+    "thumbnail": "https://brainquests.github.io/images/709.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "mutant-run",
+    "thumbnail": "https://brainquests.github.io/images/710.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "brainrot-merge",
+    "thumbnail": "https://brainquests.github.io/images/711.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sweet-and-fruity-makeup",
+    "thumbnail": "https://brainquests.github.io/images/712.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "travel-story-match",
+    "thumbnail": "https://brainquests.github.io/images/713.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "escape-room-mystery-key",
+    "thumbnail": "https://brainquests.github.io/images/714.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "sticker-jam-peel-off-match",
+    "thumbnail": "https://brainquests.github.io/images/715.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "squid-game-playground-shooter",
+    "thumbnail": "https://brainquests.github.io/images/716.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "magic-tiles-3",
+    "thumbnail": "https://brainquests.github.io/images/717.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cuphead",
+    "thumbnail": "https://brainquests.github.io/images/718.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "draw-to-fly",
+    "thumbnail": "https://brainquests.github.io/images/719.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "math-lava-tower-race",
+    "thumbnail": "https://brainquests.github.io/images/720.webp",
+    "genre": "Educational, Quiz"
+  },
+  {
+    "id": "insta-trends-galaxy-fashion",
+    "thumbnail": "https://brainquests.github.io/images/721.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "prsino",
+    "thumbnail": "https://brainquests.github.io/images/722.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "car-vs-zombies",
+    "thumbnail": "https://brainquests.github.io/images/723.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "mickey-run-adventure-game",
+    "thumbnail": "https://brainquests.github.io/images/724.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "nutcracker-new-years-adventures",
+    "thumbnail": "https://brainquests.github.io/images/725.webp",
+    "genre": "Art, Dress-up"
+  },
+  {
+    "id": "puzzle-lub",
+    "thumbnail": "https://brainquests.github.io/images/726.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "marble-sort",
+    "thumbnail": "https://brainquests.github.io/images/727.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "memory-wars",
+    "thumbnail": "https://brainquests.github.io/images/728.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "tile-match-connect-3-tiles",
+    "thumbnail": "https://brainquests.github.io/images/729.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "block-combo-blast",
+    "thumbnail": "https://brainquests.github.io/images/730.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sky-balls-3d",
+    "thumbnail": "https://brainquests.github.io/images/731.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "vex-x3m",
+    "thumbnail": "https://brainquests.github.io/images/732.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "city-builder",
+    "thumbnail": "https://brainquests.github.io/images/733.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "goo-goo-gaga-clicker",
+    "thumbnail": "https://brainquests.github.io/images/734.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "frogtastic-marble-adventure",
+    "thumbnail": "https://brainquests.github.io/images/735.webp",
+    "genre": "Bubble Shooter, Match-3"
+  },
+  {
+    "id": "bus-driver",
+    "thumbnail": "https://brainquests.github.io/images/736.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "gun-craft-run-weapon-fire",
+    "thumbnail": "https://brainquests.github.io/images/737.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "ocean-pop",
+    "thumbnail": "https://brainquests.github.io/images/738.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "drop-animals",
+    "thumbnail": "https://brainquests.github.io/images/739.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "poppytile",
+    "thumbnail": "https://brainquests.github.io/images/740.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "kids-coloring",
+    "thumbnail": "https://brainquests.github.io/images/741.webp",
+    "genre": "Puzzle, Art"
+  },
+  {
+    "id": "space-pin-master-pull-pin-puzzle",
+    "thumbnail": "https://brainquests.github.io/images/742.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "farm-tiles-harvest",
+    "thumbnail": "https://brainquests.github.io/images/743.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "puzzle-blocks-fill-it-completely",
+    "thumbnail": "https://brainquests.github.io/images/744.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "robberies-3d",
+    "thumbnail": "https://brainquests.github.io/images/745.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "planet-demolish",
+    "thumbnail": "https://brainquests.github.io/images/746.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "arrow-escape",
+    "thumbnail": "https://brainquests.github.io/images/747.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "block-stacking",
+    "thumbnail": "https://brainquests.github.io/images/748.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "horror-playtime-room-escape",
+    "thumbnail": "https://brainquests.github.io/images/749.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "grandma-with-machine-gun-apocalypsis",
+    "thumbnail": "https://brainquests.github.io/images/750.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "little-alchemy",
+    "thumbnail": "https://brainquests.github.io/images/751.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "clownfish-pin-out",
+    "thumbnail": "https://brainquests.github.io/images/752.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "marble-puzzle-quest",
+    "thumbnail": "https://brainquests.github.io/images/753.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "dog-merge-mania",
+    "thumbnail": "https://brainquests.github.io/images/754.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "battledudes-io",
+    "thumbnail": "https://brainquests.github.io/images/755.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hitman-sniper",
+    "thumbnail": "https://brainquests.github.io/images/756.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "digital-circus-find-the-differences",
+    "thumbnail": "https://brainquests.github.io/images/757.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "quiz-10-seconds-math",
+    "thumbnail": "https://brainquests.github.io/images/758.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "crunch-locked",
+    "thumbnail": "https://brainquests.github.io/images/759.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "classic-mine-sweeper",
+    "thumbnail": "https://brainquests.github.io/images/760.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "candy-match-puzzle",
+    "thumbnail": "https://brainquests.github.io/images/761.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "guess-word",
+    "thumbnail": "https://brainquests.github.io/images/762.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "grass-land",
+    "thumbnail": "https://brainquests.github.io/images/763.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "rooftop-run",
+    "thumbnail": "https://brainquests.github.io/images/764.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cleaning-princess",
+    "thumbnail": "https://brainquests.github.io/images/765.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "card-battle",
+    "thumbnail": "https://brainquests.github.io/images/766.webp",
+    "genre": "Puzzle, Racing & Driving"
+  },
+  {
+    "id": "waterpark-sort",
+    "thumbnail": "https://brainquests.github.io/images/767.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mega-lamba-ramp",
+    "thumbnail": "https://brainquests.github.io/images/768.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "heroic-knight",
+    "thumbnail": "https://brainquests.github.io/images/769.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "lovely-cat-pet-life",
+    "thumbnail": "https://brainquests.github.io/images/770.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "tiktok-street-style",
+    "thumbnail": "https://brainquests.github.io/images/771.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cards-klondike-solitaire",
+    "thumbnail": "https://brainquests.github.io/images/772.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "relax-mini-games-collection",
+    "thumbnail": "https://brainquests.github.io/images/773.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "puzzle-trails",
+    "thumbnail": "https://brainquests.github.io/images/774.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "whats-in-my-bag",
+    "thumbnail": "https://brainquests.github.io/images/775.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "cool-girl-aesthetics",
+    "thumbnail": "https://brainquests.github.io/images/776.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "unblock-it-3d",
+    "thumbnail": "https://brainquests.github.io/images/777.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merge-gun-fps-shooting-zombie",
+    "thumbnail": "https://brainquests.github.io/images/778.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "sniper-vs-sniper",
+    "thumbnail": "https://brainquests.github.io/images/779.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "mini-grand-theft-city",
+    "thumbnail": "https://brainquests.github.io/images/780.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "medieval-arena",
+    "thumbnail": "https://brainquests.github.io/images/781.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "squid-game-craft-runner",
+    "thumbnail": "https://brainquests.github.io/images/782.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "grunge-chic-alt-fashion",
+    "thumbnail": "https://brainquests.github.io/images/783.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "magic-sort",
+    "thumbnail": "https://brainquests.github.io/images/784.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "airways-maze",
+    "thumbnail": "https://brainquests.github.io/images/785.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "room-sort",
+    "thumbnail": "https://brainquests.github.io/images/786.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "goal-rush",
+    "thumbnail": "https://brainquests.github.io/images/787.webp",
+    "genre": "Football, Casual"
+  },
+  {
+    "id": "alien-storm",
+    "thumbnail": "https://brainquests.github.io/images/788.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "slicer-duo",
+    "thumbnail": "https://brainquests.github.io/images/789.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "onet-monster-book",
+    "thumbnail": "https://brainquests.github.io/images/790.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "prinxy-winterella",
+    "thumbnail": "https://brainquests.github.io/images/791.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-shooter-candy-wheel-level-pack",
+    "thumbnail": "https://brainquests.github.io/images/792.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "red-stickman-vs-craftmans-2",
+    "thumbnail": "https://brainquests.github.io/images/793.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "bonnie-fitness-frenzy",
+    "thumbnail": "https://brainquests.github.io/images/794.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "nose-hospital",
+    "thumbnail": "https://brainquests.github.io/images/795.webp",
+    "genre": "Care"
+  },
+  {
+    "id": "flower-sort",
+    "thumbnail": "https://brainquests.github.io/images/796.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hidden-kitty",
+    "thumbnail": "https://brainquests.github.io/images/797.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "princesses-of-quadrobics",
+    "thumbnail": "https://brainquests.github.io/images/798.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "voxiom-io",
+    "thumbnail": "https://brainquests.github.io/images/799.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  }
+]
